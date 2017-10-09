@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloGrumpy</string>
+    <string name="about_text">Hi! \n I am Anastasiia Afanasieva and this is my first android app. \n For now I`m just training my coding skills. \n Good luck :)</string>
+    <string name="about_title">About author</string>
 </resources>
